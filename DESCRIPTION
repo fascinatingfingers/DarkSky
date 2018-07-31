@@ -11,5 +11,5 @@ Description: The DarkSky package provides an R interface to the Dark Sky API
   <https://darksky.net/dev/docs> for the Dark Sky API Documentation.
 License: GPL-3
 LazyData: true
-Imports: httr
+Imports: yaml, httr
 RoxygenNote: 6.0.1
