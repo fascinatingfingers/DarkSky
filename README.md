@@ -9,7 +9,7 @@ package for R aims to simplify such calls.
 
 Install directly from GitHub with:
 
-```
+```{r}
 devtools::install_github('fascinatingfingers/DarkSky')
 ```
 
