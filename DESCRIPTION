@@ -1,12 +1,12 @@
 Package: DarkSky
 Type: Package
-Title: R Interface to the Dark Sky API
+Title: R Client for the Dark Sky API
 Version: 0.1.0
 Author: Justin Brantley <fascinatingfingers@icloud.com>
 Maintainer: Justin Brantley <fascinatingfingers@icloud.com>
 URL: https://github.com/fascinatingfingers/DarkSky
 Description: The DarkSky package provides an R interface to the Dark Sky API
-  service, making it easy to make API calls and process the response into
+  service, facilitating API calls and processing API responses into
   convenient, R-friendly data structures. See
   <https://darksky.net/dev/docs> for the Dark Sky API Documentation.
 License: GPL-3
