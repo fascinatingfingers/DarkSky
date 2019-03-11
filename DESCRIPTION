@@ -13,5 +13,8 @@ BugReports: https://gitlab.com/fascinatingfingers/darksky/issues
 Imports: 
     httr,
     yaml
+Suggests: 
+    testthat
 LazyData: TRUE
+Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.0.1
