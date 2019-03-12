@@ -18,7 +18,7 @@ reset_dark_sky_credentials()
 }
 \value{
 Returns \code{TRUE} (invisibly) if options were successfully set or
-  reset.
+reset.
 }
 \description{
 These functions are used specifically for their side effects -- namely to
