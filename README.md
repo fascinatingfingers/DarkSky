@@ -1,6 +1,11 @@
 
 # An R Client for the Dark Sky Weather API
 
+[![pipeline status](https://gitlab.com/fascinatingfingers/darksky/badges/master/pipeline.svg)](https://gitlab.com/fascinatingfingers/darksky/pipelines)
+[![coverage report](https://gitlab.com/fascinatingfingers/darksky/badges/master/coverage.svg)](https://gitlab.com/fascinatingfingers/darksky/commits/master)
+
+---
+
 The [Dark Sky API](https://darksky.net/dev) allows you to look up past, present,
 and future weather conditions for any point on the globe, and the DarkSky
 package for R aims to simplify such calls.
