@@ -1,4 +1,4 @@
 library(testthat)
 library(DarkSky)
 
-test_check("DarkSky")
+# test_check("DarkSky")
