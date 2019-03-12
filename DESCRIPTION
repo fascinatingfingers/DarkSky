@@ -2,7 +2,7 @@ Type: Package
 Package: DarkSky
 Title: R Client for the Dark Sky API
 Version: 0.1.0
-Author: person('Justin', 'Brantley', email = 'fascinatingfingers@icloud.com', role = c('aut', 'cre'))
+Authors@R: person('Justin', 'Brantley', email = 'fascinatingfingers@icloud.com', role = c('aut', 'cre'))
 Description: The DarkSky package provides an R interface to the Dark Sky API
   service, facilitating API calls and processing API responses into
   convenient, R-friendly data structures. See
