@@ -3,16 +3,16 @@
 #'
 #' These functions are used specifically for their side effects -- namely to
 #' set (or reset) Dark Sky API authentication secrets stored in
-#' \code{options()$DarkSky}.
+#' `options()$DarkSky`.
 #'
 #' @param key Dark Sky secret key
 #' @param lat latitude (in decimal degrees). Positive north; negative south.
 #' @param lon longitude (in decimal degrees). Positive east; negative west.
 #'
-#' @return Returns \code{TRUE} (invisibly) if options were successfully set or
+#' @return Returns `TRUE` (invisibly) if options were successfully set or
 #'   reset.
 #'
-#' @seealso \url{https://darksky.net/dev/docs}
+#' @seealso <https://darksky.net/dev/docs>
 #'
 #' @export
 #'

@@ -3,7 +3,7 @@
 #'
 #' @return Returns the Dark Sky response, parsed into an R-friendly list.
 #'
-#' @seealso \url{https://darksky.net/dev/docs}
+#' @seealso <https://darksky.net/dev/docs>
 #'
 #' @export
 #'
