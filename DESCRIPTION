@@ -2,11 +2,15 @@ Type: Package
 Package: DarkSky
 Title: R Client for the Dark Sky API
 Version: 0.1.0
-Authors@R: person('Justin', 'Brantley', email = 'fascinatingfingers@icloud.com', role = c('aut', 'cre'))
-Description: The DarkSky package provides an R interface to the Dark Sky API
-  service, facilitating API calls and processing API responses into
-  convenient, R-friendly data structures. See
-  <https://darksky.net/dev/docs> for the Dark Sky API Documentation.
+Authors@R: 
+    person(given = "Justin",
+           family = "Brantley",
+           role = c("aut", "cre"),
+           email = "fascinatingfingers@icloud.com")
+Description: The DarkSky package provides an R interface to the
+    Dark Sky API service, facilitating API calls and processing API
+    responses into convenient, R-friendly data structures. See
+    <https://darksky.net/dev/docs> for the Dark Sky API Documentation.
 License: GPL-3
 URL: https://gitlab.com/fascinatingfingers/darksky
 BugReports: https://gitlab.com/fascinatingfingers/darksky/issues
@@ -15,6 +19,7 @@ Imports:
     yaml
 Suggests: 
     testthat
+Encoding: UTF-8
 LazyData: TRUE
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.0.1
