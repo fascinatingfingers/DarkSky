@@ -6,10 +6,10 @@
 \alias{DarkSky-package}
 \title{DarkSky: R Client for the Dark Sky API}
 \description{
-The DarkSky package provides an R interface to the Dark Sky API
-service, facilitating API calls and processing API responses into
-convenient, R-friendly data structures. See
-<https://darksky.net/dev/docs> for the Dark Sky API Documentation.
+The DarkSky package provides an R interface to the
+    Dark Sky API service, facilitating API calls and processing API
+    responses into convenient, R-friendly data structures. See
+    <https://darksky.net/dev/docs> for the Dark Sky API Documentation.
 }
 \seealso{
 Useful links:
